@@ -1,6 +1,8 @@
 # Ugo
 ### Educational Robot
 
+![IMG_6814](https://user-images.githubusercontent.com/20543988/189480615-e75f3fa7-6783-45c6-8d2f-a92192cd4bed.JPG)
+
 Ugo is an educational robot, which makes learning a new language more fun. I was in charge of the speech recognition part and I used deepspeech Speech-To-Text engine from Mozilla: https://github.com/mozilla/DeepSpeech
 
 The reason I chose DS is that DS is pretrained on the Mozilla common voices dataset: https://commonvoice.mozilla.org/en
